@@ -1,0 +1,1 @@
+const MONGODB_URI = 'mongodb+srv://vvduong2k2:3hGANTLXYjd2Eehr@cluster-vduong2k2.irmgbtc.mongodb.net/?appName=Cluster-vduong2k2'
