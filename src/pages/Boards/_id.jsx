@@ -1,6 +1,6 @@
 import { Box, Container } from "@mui/material";
-import ModeSelect from "../../components/ModeSelect";
-import AppBar from "../../components/AppBar";
+import ModeSelect from "~/components/ModeSelect";
+import AppBar from "~/components/AppBar";
 import BoardBar from "../Boards/BoardBar";
 import BoardContent from "./BoardContent";
 const Board = () => {
